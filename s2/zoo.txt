@@ -1,0 +1,52 @@
+A Tour through the Visualization Zoo:
+
+The goal of visualization is to aid our understanding of data by leveraging the human visual system’s highly tuned ability to see patterns, spot trends, and identify outliers. 
+The challenge is to create effective and engaging visualizations that are appropriate to the data.
+
+One must determine which questions to ask, identify the appropriate data, and select effective visual encodings to map data values to graphical features such as position, size, shape, and color. 
+For example: Graphical perception experiments find that spatial position (as in a scatter plot or bar chart) leads to the most accurate decoding of numerical data and is generally preferable to visual variables such as angle, one-dimensional length, two-dimensional area, three-dimensional volume, and color saturation.
+This must appropriately be balanced with interaction design and aesthetics.
+
+TIME-SERIES DATA:
+
+Time-varying phenomena are central to many domains such as finance (stock prices, exchange rates), science (temperatures, pollution levels, electric potentials), and public policy (crime rates).
+
+* Index Charts: It's an interactive line chart that shows percentage changes for a collection of time-series data based on a selected index point. 
+* Stacked Graphs: By stacking area charts on top of each other, we arrive at a visual summation of time-series values.
+	- Limitations:
+		o It doesn't support negative numbers and is meaningless for data that should not be summed (temperatures, for example).
+		o Stacking may make it difficult to accurately interpret trends that lie atop other curves.
+* Small Multiples: Showing each series in its own chart. This often produces a more effective visualization than trying to coerce all the data into a single plot.
+* Horizon Graphs: It's a technique for increasing the data density of a time-series view while preserving resolution. Density is multiplied by dividing the graph into bands and layering them to create a nested form.
+
+STATISTICAL DISTRIBUTIONS:
+
+One important use of visualizations is exploratory data analysis: gaining insight into how data is distributed to inform data transformation and modeling decisions. Common techniques include the histogram and the box-and-whisker plot.
+
+* Stem-and-Leaf: Alternative to histogram for assessing numbers. It bins numbers according to the first significant digit, and then stacks the values within each bin by the second significant digit.
+* Q-Q Plots: Compares two probability distributions by graphing their quantiles against each other. If the two are similar, the plotted values will lie roughly along the central diagonal. If the two are linearly related, values will again lie along a line, though with varying slope and intercept.
+* SPLOM (Scatter plot matrix): Represents the relationships among multiple variables. Uses small multiples of scatter plots showing a set of pairwise relations among variables. Allows to easily spot correlations.
+* Parallel Coordinates: Repeatedly plot the data on parallel axes and then connect the corresponding points with lines. Each poly-line represents a single row in the database, and line crossings between dimensions often indicate inverse correlation.
+
+MAPS:
+
+* Flow Maps: By placing stroked lines on top of a geographic map, a flow map can depict the movement of a quantity in space and (implicitly) in time. Path points, direction, line thickness, and color can all be used to present dimensions of information to the viewer.
+* Choropleth Maps: Agregate data by geographical areas and communicate this data by using a color encoding of the areas.
+* Graduated Symbol Maps: Place symbols over the underlying map.
+* Cartograms: Distorts the shape of geographic regions so that the area directly encodes a data variable.
+
+HIERARCHIES:
+
+* Node-Link Diagrams: Two-dimensional blueprint of a tree. Examples: dendrogram (places leaf nodes at the same level - polar coordinates could use the space more efficiently), indented trees, etc.
+* Adjacency diagrams: Variant of the node-link diagram where nodes are drawn as solid areas (either arcs or bars), and their placement relative to adjacent nodes reveals their position in the hierarchy.
+* Enclosure Diagrams: The enclosure diagram is also space filling, using containment rather than adjacency to represent the hierarchy. As one example, a treemap recursively subdivides area in rectangles.
+
+NETWORKS:
+Explores relationships through graphs. Layout techniques typically seek to position closely related nodes (in terms of graph distance, such as the number of links between nodes, or other metrics) close in the drawing; critically, unrelated nodes must also be placed far enough apart to differentiate relationships.
+
+* Forced-Directed layouts: Models the graph as a physical system: nodes are charged particles that repel each other, and links are dampened springs that pull related nodes together. A physical simulation of these forces then determines the node positions.
+* Arc Diagrams: One-dimensional layout of nodes, with circular arcs to represent links.  The problem of sorting the nodes in a manner that reveals underlying cluster structure is called seriation.
+* Matrix Views (Adjacency matrix): each value in row i and column j in the matrix corresponds to the link from node i to node j. Using color or saturation instead of text allows values associated with the links to be perceived more rapidly. Seriation problem applies.
+
+CONCLUSION:
+The DNA underlying all visualizations remains the same: the principled mapping of data variables to visual features such as position, size, shape, and color.
