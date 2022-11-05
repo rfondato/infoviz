@@ -4,5 +4,7 @@
 ### Fundraising by Members of the 117th Congress
 #### Source: [Open Secrets](https://www.opensecrets.org/members-of-congress/members-list)
 
+* [Tableau](https://rfondato.github.io/infoviz/s2/tableau.html)
+
 ## Bonus:
 * [Zoo](https://rfondato.github.io/infoviz/s2/zoo.txt)
