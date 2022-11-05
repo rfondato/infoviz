@@ -7,6 +7,7 @@
 * [Tableau](https://rfondato.github.io/infoviz/s2/tableau.html)
 * [Flourish - Beeswarm](https://rfondato.github.io/infoviz/s2/flourish.html)
 * [Flourish - Circle](https://rfondato.github.io/infoviz/s2/fluorish-circle.html)
+* [Vega-lite](https://rfondato.github.io/infoviz/s2/vega.html)
 
 ## Bonus:
 * [Zoo](https://rfondato.github.io/infoviz/s2/zoo.txt)
