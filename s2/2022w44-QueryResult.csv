@@ -1,0 +1,538 @@
+member,party,state,chamber,raised,spent,cash_on_hand,debts
+Abigail Spanberger,Democratic,Virginia,House,7719396.0,7449678.0,851851.0,0.0
+Adam Kinzinger,Republican,Illinois,House,2192741.0,1243502.0,2472888.0,0.0
+Adam Schiff,Democratic,California,House,20993041,13957854,20942888,0.0
+Adam Smith,Democratic,Washington,House,1211111.0,1173466.0,623472.0,0.0
+Adrian Smith,Republican,Nebraska,House,1617611.0,1664674.0,1098579.0,0.0
+Adriano Espaillat,Democratic,New York,House,1178693.0,888437.0,392705.0,0.0
+Al Green,Democratic,Texas,House,346571.0,289586.0,296791.0,50000.0
+Al Lawson,Democratic,Florida,House,593604.0,522650.0,238345.0,0.0
+Alan Lowenthal,Democratic,California,House,181286.0,288295.0,285025.0,0.0
+Albio Sires,Democratic,New Jersey,House,204340.0,284473.0,128200.0,0.0
+Alex Mooney,Republican,West Virginia,House,4262971.0,5856816.0,724272.0,0.0
+Alex Padilla,Democratic,California,Senate,11253771,3870947.0,7617654.0,5703.0
+Alexandria Ocasio-Cortez,Democratic,New York,House,11326505,9411406.0,5940454.0,0.0
+Alma Adams,Democratic,North Carolina,House,838536.0,608400.0,576809.0,0.0
+Aumua Amata Radewagen,Republican,American Samoa,Senate,54700.0,52064.0,3153.0,0.0
+Ami Bera,Democratic,California,House,1355357.0,1143120.0,2241254.0,172800.0
+Amy Klobuchar,Democratic,Minnesota,Senate,3234766.0,3363479.0,1122953.0,0.0
+Andre Carson,Democratic,Indiana,House,725565.0,737136.0,976598.0,0.0
+Andrew Clyde,Republican,Georgia,House,726917.0,666629.0,68396.0,1262363.0
+Andrew Garbarino,Republican,New York,House,3184656.0,2567027.0,749483.0,0.0
+Andy Barr,Republican,Kentucky,House,3447266.0,1797666.0,2004303.0,0.0
+Andy Biggs,Republican,Arizona,House,1761000.0,1659510.0,752537.0,0.0
+Andy Harris,Republican,Maryland,House,1757044.0,1253968.0,1546254.0,0.0
+Andy Kim,Democratic,New Jersey,House,6069123.0,3538016.0,3082941.0,0.0
+Andy Levin,Democratic,Michigan,House,2586972.0,2972880.0,42569.0,0.0
+Angie Craig,Democratic,Minnesota,House,6817301.0,4821652.0,3027648.0,0.0
+Angus King,Independent,Maine,Senate,81913.0,180532.0,290026.0,0.0
+Ann Kirkpatrick,Democratic,Arizona,House,0.0,0.0,0.0,0.0
+Ann Kuster,Democratic,New Hampshire,House,3873628.0,2283004.0,2663709.0,0.0
+Ann Wagner,Republican,Missouri,House,4331508.0,2224183.0,2220767.0,0.0
+Anna Eshoo,Democratic,California,House,1857034.0,1735758.0,674075.0,0.0
+Anthony Brown,Democratic,Maryland,House,448866.0,493986.0,1072214.0,0.0
+Anthony Gonzalez,Republican,Ohio,House,778998.0,608730.0,735203.0,0.0
+Ashley Hinson,Republican,Iowa,House,6446790.0,4880484.0,1682977.0,0.0
+August Pfluger,Republican,Texas,House,2639948.0,1537278.0,1697076.0,0.0
+Austin Scott,Republican,Georgia,House,761878.0,646701.0,781706.0,0.0
+Ayanna Pressley,Democratic,Massachusetts,House,1242476.0,1323871.0,419642.0,0.0
+Barbara Lee,Democratic,California,House,1881840.0,1932642.0,159572.0,0.0
+Barry Loudermilk,Republican,Georgia,House,717298.0,695877.0,394252.0,0.0
+Barry Moore,Republican,Alabama,House,790735.0,319509.0,472664.0,0.0
+Ben Cardin,Democratic,Maryland,Senate,152052.0,275498.0,1028821.0,0.0
+Ben Cline,Republican,Virginia,House,858890.0,806171.0,291492.0,0.0
+Ben Ray Luján,Democratic,New Mexico,Senate,1097555.0,559006.0,617871.0,0.0
+Ben Sasse,Republican,Nebraska,Senate,951050.0,366607.0,2717701.0,0.0
+Bennie Thompson,Democratic,Mississippi,House,1247753.0,871154.0,1900146.0,0.0
+Bernie Sanders,Independent,Vermont,Senate,14074831,11331428,9751125.0,0.0
+Beth Van Duyne,Republican,Texas,House,3465317.0,1883001.0,1650726.0,0.0
+Betty McCollum,Democratic,Minnesota,House,1991061.0,1825706.0,449330.0,0.0
+Bill Cassidy,Republican,Louisiana,Senate,1978660.0,756703.0,2859633.0,0.0
+Bill Foster,Democratic,Illinois,House,3289974.0,2861784.0,4164390.0,1046178.0
+Bill Hagerty,Republican,Tennessee,Senate,2369794.0,1505501.0,919351.0,2125000.0
+Bill Huizenga,Republican,Michigan,House,2480390.0,2035658.0,914429.0,0.0
+Bill Johnson,Republican,Ohio,House,1534981.0,1421054.0,972756.0,0.0
+Bill Pascrell,Democratic,New Jersey,House,1389395.0,1048295.0,1745484.0,0.0
+Bill Keating,Democratic,Massachusetts,House,620848.0,619647.0,1505978.0,0.0
+Bill Posey,Republican,Florida,House,893757.0,466071.0,597650.0,0.0
+Billy Long,Republican,Missouri,House,1289389.0,1697311.0,67188.0,170000.0
+Blaine Luetkemeyer,Republican,Missouri,House,2370318.0,1985221.0,2590501.0,550000.0
+Blake Moore,Republican,Utah,House,1580076.0,1037966.0,570471.0,205951.0
+Bob Casey Jr.,Democratic,Pennsylvania,Senate,4120442.0,2174116.0,3197571.0,0.0
+Bob Gibbs,Republican,Ohio,House,321762.0,529478.0,283857.0,0.0
+Bob Good,Republican,Virginia,House,1038921.0,772587.0,316670.0,0.0
+Bob Latta,Republican,Ohio,House,1411641.0,973991.0,1157114.0,0.0
+Bobby Rush,Democratic,Illinois,House,193192.0,286417.0,18395.0,23489.0
+Bobby Scott,Democratic,Virginia,House,758691.0,555196.0,398701.0,3191.0
+Bonnie Watson Coleman,Democratic,New Jersey,House,781122.0,600927.0,287355.0,0.0
+Brad Finstad,Republican,Minnesota,House,1242835.0,906093.0,336741.0,0.0
+Brad Schneider,Democratic,Illinois,House,3360517.0,3689920.0,1544359.0,0.0
+Brad Sherman,Democratic,California,House,1593208.0,1395216.0,2822613.0,117.0
+Brad Wenstrup,Republican,Ohio,House,1904466.0,1143230.0,1222482.0,0.0
+Brenda Lawrence,Democratic,Michigan,House,344191.0,318197.0,917179.0,0.0
+Brendan Boyle,Democratic,Pennsylvania,House,1406396.0,617930.0,2257207.0,0.0
+Brett Guthrie,Republican,Kentucky,House,2094504.0,1667628.0,2283550.0,0.0
+Brian Babin,Republican,Texas,House,875803.0,828729.0,832155.0,0.0
+Brian Fitzpatrick,Republican,Pennsylvania,House,3991112.0,2820247.0,1219189.0,24750.0
+Brian Higgins,Democratic,New York,House,1447143.0,1495264.0,1062931.0,0.0
+Brian Mast,Republican,Florida,House,6007472.0,4690006.0,2311828.0,0.0
+Brian Schatz,Democratic,Hawaii,Senate,2328949.0,2184358.0,3207427.0,0.0
+Bruce Westerman,Republican,Arkansas,House,1656992.0,931947.0,1701850.0,0.0
+Bryan Steil,Republican,Wisconsin,House,3232315.0,1764088.0,1843730.0,0.0
+Buddy Carter,Republican,Georgia,House,1854187.0,1655991.0,1904121.0,0.0
+Burgess Owens,Republican,Utah,House,3149814.0,2842400.0,387742.0,0.0
+Byron Donalds,Republican,Florida,House,5225390.0,4960375.0,745908.0,0.0
+Carlos Gimenez,Republican,Florida,House,2016114.0,705336.0,1349948.0,35000.0
+Carol Miller,Republican,West Virginia,House,1084888.0,983753.0,268141.0,442992.0
+Carolyn Bourdeaux,Democratic,Georgia,House,2746695.0,2842137.0,18505.0,0.0
+Carolyn Maloney,Democratic,New York,House,4353630.0,4076246.0,393800.0,1463000.0
+Catherine Cortez Masto,Democratic,Nevada,Senate,37993811,35928936,5089745.0,0.0
+Cathy McMorris Rodgers,Republican,Washington,House,5808554.0,4589556.0,2294548.0,0.0
+Chuck Schumer,Democratic,New York,Senate,35899966,25944350,20231213,0.0
+Charlie Crist,Democratic,Florida,House,381761.0,800480.0,289.0,0.0
+Chellie Pingree,Democratic,Maine,House,509569.0,361902.0,594325.0,20000.0
+Cheri Bustos,Democratic,Illinois,House,167506.0,302234.0,783896.0,0.0
+Chip Roy,Republican,Texas,House,2071661.0,1281527.0,1253716.0,0.0
+Chris Coons,Democratic,Delaware,Senate,858263.0,815704.0,1883072.0,0.0
+Chris Jacobs,Republican,New York,House,474819.0,537648.0,0.0,346561.0
+Chris Pappas,Democratic,New Hampshire,House,4220118.0,2218578.0,2215452.0,0.0
+Chris Smith,Republican,New Jersey,House,1332282.0,1123490.0,350366.0,0.0
+Chris Stewart,Republican,Utah,House,996345.0,879282.0,281756.0,0.0
+Chris Van Hollen,Democratic,Maryland,Senate,6167303.0,5211295.0,2286105.0,2209.0
+Chrissy Houlahan,Democratic,Pennsylvania,House,4418709.0,1764928.0,5763037.0,0.0
+Christopher S. Murphy,Democratic,Connecticut,Senate,569007.0,1158935.0,4177754.0,0.0
+Chuck Fleischmann,Republican,Tennessee,House,510936.0,388755.0,2002521.0,0.0
+Chuck Grassley,Republican,Iowa,Senate,7828900.0,5762066.0,3905425.0,0.0
+Cindy Axne,Democratic,Iowa,House,6131905.0,4403176.0,1748249.0,0.0
+Cindy Hyde-Smith,Republican,Mississippi,Senate,806946.0,652320.0,323168.0,60000.0
+Claudia Tenney,Republican,New York,House,2989524.0,3080490.0,311901.0,0.0
+Clay Higgins,Republican,Louisiana,House,856339.0,613999.0,314102.0,0.0
+Cliff Bentz,Republican,Oregon,House,1010336.0,464018.0,635371.0,48100.0
+Colin Allred,Democratic,Texas,House,3119825.0,1359247.0,1920000.0,0.0
+Conor Lamb,Democratic,Pennsylvania,House,5272240.0,6054169.0,51890.0,0.0
+Cori Bush,Democratic,Missouri,House,2212505.0,2264075.0,32932.0,14477.0
+Cory Booker,Democratic,New Jersey,Senate,5794554.0,4010634.0,7671026.0,0.0
+Cynthia Lummis,Republican,Wyoming,Senate,220970.0,205300.0,130119.0,0.0
+Dan Bishop,Republican,North Carolina,House,1793984.0,605473.0,1248907.0,9336.0
+Dan Crenshaw,Republican,Texas,House,14535870,14512435,1876149.0,0.0
+Dan Kildee,Democratic,Michigan,House,4798334.0,3909159.0,1670896.0,0.0
+Dan Meuser,Republican,Pennsylvania,House,853475.0,907109.0,86975.0,0.0
+Dan Newhouse,Republican,Washington,House,1979358.0,1796234.0,482842.0,38400.0
+Dan Sullivan,Republican,Alaska,Senate,629343.0,429962.0,931124.0,0.0
+Daniel Webster,Republican,Florida,House,704798.0,594814.0,320685.0,0.0
+Danny K. Davis,Democratic,Illinois,House,570467.0,876190.0,-64781.0,58954.0
+Darin LaHood,Republican,Illinois,House,3632692.0,2416383.0,4306879.0,0.0
+Darrell Issa,Republican,California,House,1115797.0,960887.0,447473.0,5081387.0
+Darren Soto,Democratic,Florida,House,1191099.0,888596.0,474902.0,0.0
+David Cicilline,Democratic,Rhode Island,House,1838461.0,1209603.0,1157906.0,0.0
+David Kustoff,Republican,Tennessee,House,1800445.0,1127286.0,1386991.0,248000.0
+Tom Rice,Republican,South Carolina,House,1587079.0,2296616.0,411817.0,0.0
+Tom Suozzi,Democratic,New York,House,1548007.0,3393860.0,109143.0,30379.0
+Tom Tiffany,Republican,Wisconsin,House,1037497.0,801275.0,358941.0,0.0
+Tommy Tuberville,Republican,Alabama,Senate,881479.0,900339.0,154620.0,162914.0
+Tony Cárdenas,Democratic,California,House,1393256.0,1313142.0,609903.0,0.0
+Tony Gonzales,Republican,Texas,House,3851900.0,2657423.0,1225835.0,0.0
+Tracey Mann,Republican,Kansas,House,1144309.0,313482.0,1107024.0,197611.0
+Trent Kelly,Republican,Mississippi,House,959008.0,848201.0,339101.0,0.0
+Trey Hollingsworth,Republican,Indiana,House,354993.0,192082.0,835855.0,576083.0
+Troy Balderson,Republican,Ohio,House,1752943.0,801443.0,994549.0,0.0
+Troy Carter,Democratic,Louisiana,House,2904436.0,2667808.0,615058.0,94686.0
+Troy Nehls,Republican,Texas,House,1247447.0,798676.0,467977.0,5726.0
+Val Demings,Democratic,Florida,House,64682883,58806664,6647641.0,0.0
+Van Taylor,Republican,Texas,House,2353035.0,2368614.0,6919.0,1088192.0
+Vernon Buchanan,Republican,Florida,House,3664655.0,1728747.0,2008993.0,0.0
+Veronica Escobar,Democratic,Texas,House,1166742.0,940660.0,510937.0,0.0
+Vicente Gonzalez,Democratic,Texas,House,2492127.0,3042545.0,820074.0,0.0
+Vicky Hartzler,Republican,Missouri,House,2992372.0,3572065.0,65738.0,57607.0
+Victoria Spartz,Republican,Indiana,House,3612075.0,2138185.0,1583013.0,1137000.0
+Virginia Foxx,Republican,North Carolina,House,1929971.0,1651369.0,2619486.0,0.0
+Warren Davidson,Republican,Ohio,House,871656.0,906552.0,369819.0,0.0
+William Timmons,Republican,South Carolina,House,892064.0,823955.0,76799.0,391742.0
+Young Kim,Republican,California,House,7900497.0,7380035.0,928803.0,94940.0
+Yvette Clarke,Democratic,New York,House,684268.0,662375.0,93513.0,49480.0
+Yvette Herrell,Republican,New Mexico,House,3777731.0,2746661.0,1085613.0,0.0
+Zoe Lofgren,Democratic,California,House,1679466.0,2103190.0,736813.0,0.0
+David McKinley,Republican,West Virginia,House,2111035.0,2497268.0,6978.0,935000.0
+David Joyce,Republican,Ohio,House,2367635.0,798352.0,2235774.0,0.0
+David Price,Democratic,North Carolina,House,199991.0,390173.0,123133.0,0.0
+David Rouzer,Republican,North Carolina,House,1204897.0,1073920.0,1559476.0,0.0
+David Schweikert,Republican,Arizona,House,1646710.0,1461715.0,244577.0,242755.0
+David Scott,Democratic,Georgia,House,1911503.0,1590932.0,782219.0,27100.0
+David Trone,Democratic,Maryland,House,12990741,6878050.0,6206371.0,13302000
+David Valadao,Republican,California,House,3215917.0,1934922.0,1436824.0,0.0
+Dean Phillips,Democratic,Minnesota,House,2049518.0,1546193.0,721391.0,250000.0
+Deb Fischer,Republican,Nebraska,Senate,983002.0,575589.0,1235905.0,0.0
+Debbie Dingell,Democratic,Michigan,House,1427992.0,1075784.0,789922.0,0.0
+Debbie Lesko,Republican,Arizona,House,1076710.0,806104.0,959238.0,0.0
+Debbie Stabenow,Democratic,Michigan,Senate,3437752.0,1675633.0,4280511.0,0.0
+Debbie Wasserman Schultz,Democratic,Florida,House,1881484.0,1447640.0,1050075.0,0.0
+Deborah Ross,Democratic,North Carolina,House,1936676.0,1350959.0,1037175.0,0.0
+Derek Kilmer,Democratic,Washington,House,2461642.0,2393151.0,3056589.0,0.0
+Diana DeGette,Democratic,Colorado,House,1029410.0,935113.0,371669.0,0.0
+Diana Harshbarger,Republican,Tennessee,House,1720763.0,1133074.0,845534.0,250000.0
+Dianne Feinstein,Democratic,California,Senate,9778.0,47909.0,9888.0,500000.0
+Dick Durbin,Democratic,Illinois,Senate,1028474.0,650774.0,1454186.0,0.0
+Dina Titus,Democratic,Nevada,House,2588432.0,1948461.0,968861.0,0.0
+Don Bacon,Republican,Nebraska,House,3367598.0,2665450.0,787186.0,0.0
+Don Beyer,Democratic,Virginia,House,1993756.0,2034811.0,598966.0,0.0
+Don Norcross,Democratic,New Jersey,House,1836753.0,2164438.0,1596978.0,0.0
+Donald Payne Jr.,Democratic,New Jersey,House,1260631.0,1338120.0,103782.0,0.0
+Donald McEachin,Democratic,Virginia,House,821439.0,722678.0,307893.0,0.0
+Doris Matsui,Democratic,California,House,1284829.0,1151252.0,402988.0,0.0
+Doug LaMalfa,Republican,California,House,783541.0,367065.0,507617.0,430.0
+Doug Lamborn,Republican,Colorado,House,465226.0,661939.0,232064.0,0.0
+Drew Ferguson,Republican,Georgia,House,3163351.0,2731173.0,770264.0,0.0
+Dusty Johnson,Republican,South Dakota,House,2447306.0,1232550.0,2264896.0,0.0
+Dutch Ruppersberger,Democratic,Maryland,House,970454.0,830599.0,1344068.0,0.0
+Dwight Evans,Democratic,Pennsylvania,House,1083660.0,1069356.0,196906.0,0.0
+Earl Blumenauer,Democratic,Oregon,House,1218880.0,1185765.0,790459.0,0.0
+Ed Case,Democratic,Hawaii,House,991211.0,606459.0,501453.0,0.0
+Ed Markey,Democratic,Massachusetts,Senate,904754.0,998253.0,1558477.0,0.0
+Ed Perlmutter,Democratic,Colorado,House,627622.0,959386.0,721931.0,0.0
+Eddie Bernice Johnson,Democratic,Texas,House,15000.0,111535.0,319149.0,0.0
+Elaine Luria,Democratic,Virginia,House,8724776.0,5845980.0,3020970.0,0.0
+Eleanor Holmes Norton,Democratic,District of Columbia,Senate,217953.0,273075.0,42506.0,0.0
+Elise Stefanik,Republican,New York,House,8417574.0,7381711.0,3019403.0,0.0
+Elissa Slotkin,Democratic,Michigan,House,8700992.0,6471192.0,3796480.0,0.0
+Elizabeth Warren,Democratic,Massachusetts,Senate,4754168.0,3828062.0,2251694.0,0.0
+Emanuel Cleaver,Democratic,Missouri,House,1042771.0,914101.0,1056533.0,0.0
+Eric Swalwell,Democratic,California,House,3390174.0,2979716.0,913386.0,0.0
+Frank Lucas,Republican,Oklahoma,House,1388678.0,1424753.0,246103.0,0.0
+Frank Mrvan,Democratic,Indiana,House,1871503.0,1594630.0,391100.0,0.0
+Frank Pallone Jr.,Democratic,New Jersey,House,2803934.0,2339583.0,3801946.0,0.0
+Fred Keller,Republican,Pennsylvania,House,634266.0,677872.0,432173.0,0.0
+Fred Upton,Republican,Michigan,House,1396865.0,1035867.0,548873.0,0.0
+Frederica Wilson,Democratic,Florida,House,563173.0,372925.0,610833.0,15250.0
+French Hill,Republican,Arkansas,House,2895371.0,2141876.0,1164573.0,0.0
+G.K. Butterfield,Democratic,North Carolina,House,217083.0,549535.0,331504.0,0.0
+Garret Graves,Republican,Louisiana,House,1733173.0,1156648.0,2603433.0,0.0
+Gary Palmer,Republican,Alabama,House,1113250.0,1011061.0,472876.0,0.0
+Gary Peters,Democratic,Michigan,Senate,3667685.0,811365.0,4626592.0,0.0
+Gerry Connolly,Democratic,Virginia,House,1941614.0,1056208.0,3777325.0,40631.0
+Glenn Grothman,Republican,Wisconsin,House,1210017.0,905520.0,573927.0,139110.0
+Glenn Thompson,Republican,Pennsylvania,House,2412193.0,2084240.0,421129.0,0.0
+Grace Meng,Democratic,New York,House,1423370.0,900247.0,918643.0,0.0
+Grace Napolitano,Democratic,California,House,295443.0,176910.0,651863.0,5000.0
+Greg Murphy,Republican,North Carolina,House,1724862.0,1227846.0,759247.0,0.0
+Greg Pence,Republican,Indiana,House,2097733.0,2112033.0,496526.0,20574.0
+Greg Stanton,Democratic,Arizona,House,3879556.0,2971064.0,1952894.0,0.0
+Greg Steube,Republican,Florida,House,1472022.0,831312.0,964486.0,0.0
+Gregory Meeks,Democratic,New York,House,2498238.0,1474002.0,1805708.0,0.0
+Gus Bilirakis,Republican,Florida,House,1746079.0,1488258.0,332931.0,0.0
+Guy Reschenthaler,Republican,Pennsylvania,House,1701888.0,1831816.0,557651.0,0.0
+Gwen Moore,Democratic,Wisconsin,House,1042952.0,966329.0,110623.0,0.0
+Hakeem Jeffries,Democratic,New York,House,5529626.0,4878372.0,2796536.0,0.0
+Hal Rogers,Republican,Kentucky,House,696558.0,859416.0,674044.0,0.0
+Haley Stevens,Democratic,Michigan,House,5300715.0,4643235.0,742473.0,0.0
+Hank Johnson,Democratic,Georgia,House,481307.0,570238.0,93468.0,6211.0
+Henry Cuellar,Democratic,Texas,House,4269860.0,4984190.0,836142.0,0.0
+Ilhan Omar,Democratic,Minnesota,House,2828252.0,2786198.0,209823.0,0.0
+Jack Reed,Democratic,Rhode Island,Senate,472779.0,557790.0,1924376.0,0.0
+Jackie Speier,Democratic,California,House,273672.0,335736.0,1717707.0,477.0
+Jacky Rosen,Democratic,Nevada,Senate,4215388.0,2470764.0,3406319.0,15000.0
+Jahana Hayes,Democratic,Connecticut,House,2253420.0,1724204.0,1558823.0,0.0
+Jaime Herrera Beutler,Republican,Washington,House,3078342.0,3127968.0,36537.0,47000.0
+Jake Auchincloss,Democratic,Massachusetts,House,2824798.0,937214.0,2345366.0,0.0
+Jake Ellzey,Republican,Texas,House,6278712.0,5713656.0,565055.0,0.0
+Jake LaTurner,Republican,Kansas,House,1393362.0,588372.0,819937.0,0.0
+Jamaal Bowman,Democratic,New York,House,1754371.0,1720690.0,111155.0,26410.0
+James Comer,Republican,Kentucky,House,1506882.0,779716.0,1129628.0,0.0
+James Clyburn,Democratic,South Carolina,House,3208608.0,2644422.0,2544681.0,0.0
+Jim Risch,Republican,Idaho,Senate,403990.0,302624.0,2288912.0,0.0
+James Lankford,Republican,Oklahoma,Senate,5429416.0,3860244.0,2482347.0,0.0
+Jim McGovern,Democratic,Massachusetts,House,975577.0,783053.0,457469.0,0.0
+Jamie Raskin,Democratic,Maryland,House,4160925.0,2465547.0,3033907.0,0.0
+Jan Schakowsky,Democratic,Illinois,House,1445030.0,1283092.0,910992.0,0.0
+Jared Golden,Democratic,Maine,House,5051130.0,3902805.0,1279185.0,0.0
+Jared Huffman,Democratic,California,House,827098.0,670493.0,1079047.0,0.0
+Jason Crow,Democratic,Colorado,House,2417062.0,1789315.0,1916752.0,0.0
+Jason Smith,Republican,Missouri,House,2714726.0,3419235.0,827170.0,0.0
+Jay Obernolte,Republican,California,House,854849.0,559391.0,365041.0,1331970.0
+Jeanne Shaheen,Democratic,New Hampshire,Senate,1020109.0,825784.0,1312786.0,0.0
+Jeff Duncan,Republican,South Carolina,House,1536235.0,1333874.0,684771.0,0.0
+Jeff Merkley,Democratic,Oregon,Senate,1558322.0,1259364.0,4104519.0,0.0
+Jeff Van Drew,Republican,New Jersey,House,2816286.0,2083474.0,924689.0,0.0
+Jennifer Wexton,Democratic,Virginia,House,3369890.0,2379436.0,3131151.0,0.0
+Jenniffer Gonzalez,Republican,Puerto Rico,Senate,560343.0,407384.0,265291.0,0.0
+Jerrold Nadler,Democratic,New York,House,2124293.0,2523595.0,124113.0,0.0
+Jerry Carl,Republican,Alabama,House,923401.0,524947.0,510426.0,474738.0
+Jerry McNerney,Democratic,California,House,538284.0,636872.0,135584.0,0.0
+Jerry Moran,Republican,Kansas,Senate,4880505.0,1296606.0,6134163.0,333216.0
+Jesus Garcia,Democratic,Illinois,House,844278.0,737068.0,233967.0,0.0
+Jim Baird,Republican,Indiana,House,335990.0,253537.0,345255.0,170000.0
+Jim Banks,Republican,Indiana,House,2302093.0,1286076.0,1460443.0,27052.0
+Jim Cooper,Democratic,Tennessee,House,561230.0,565141.0,269023.0,0.0
+Jim Costa,Democratic,California,House,1727906.0,1181490.0,956586.0,3435.0
+Jim Himes,Democratic,Connecticut,House,1520006.0,1252777.0,2090429.0,0.0
+Jim Jordan,Republican,Ohio,House,12417107,9675701.0,8855217.0,0.0
+Jim Langevin,Democratic,Rhode Island,House,402848.0,520692.0,593630.0,0.0
+Jimmy Gomez,Democratic,California,House,1566445.0,1093316.0,962647.0,13201.0
+Jimmy Panetta,Democratic,California,House,2287480.0,1346762.0,2116074.0,0.0
+Joaquin Castro,Democratic,Texas,House,638820.0,482993.0,271573.0,0.0
+Jodey Arrington,Republican,Texas,House,1888539.0,1568139.0,1419753.0,0.0
+Jody Hice,Republican,Georgia,House,-42855.0,181189.0,25871.0,0.0
+Joe Courtney,Democratic,Connecticut,House,1729051.0,1272645.0,1172217.0,0.0
+Joe Manchin,Democratic,West Virginia,Senate,7790164.0,835794.0,9414431.0,0.0
+Joe Sempolinski,Republican,New York,House,241369.0,240382.0,986.0,18000.0
+Joe Wilson,Republican,South Carolina,House,910221.0,683561.0,301026.0,0.0
+John Barrasso,Republican,Wyoming,Senate,1480419.0,1320611.0,4281697.0,0.0
+John Bergman,Republican,Michigan,House,1622189.0,1012886.0,749702.0,72680.0
+John Boozman,Republican,Arkansas,Senate,6252176.0,5947581.0,1211436.0,0.0
+John Carter,Republican,Texas,House,1192842.0,1006781.0,386467.0,0.0
+John Cornyn,Republican,Texas,Senate,1974574.0,1155981.0,1452053.0,0.0
+John Curtis,Republican,Utah,House,1898707.0,1670631.0,579381.0,0.0
+John Garamendi,Democratic,California,House,1012953.0,996030.0,1128045.0,0.0
+John Hickenlooper,Democratic,Colorado,Senate,864182.0,1205871.0,1300393.0,0.0
+John Hoeven,Republican,North Dakota,Senate,2941980.0,2775658.0,2263638.0,100000.0
+John Joyce,Republican,Pennsylvania,House,1373506.0,395221.0,1697167.0,906423.0
+John Katko,Republican,New York,House,1517310.0,827000.0,962371.0,0.0
+John Kennedy,Republican,Louisiana,Senate,28119082,18276565,15530074,0.0
+John Larson,Democratic,Connecticut,House,1614911.0,1506215.0,526071.0,11992.0
+John Moolenaar,Republican,Michigan,House,1992376.0,2034990.0,568532.0,33345.0
+John Rose,Republican,Tennessee,House,1442822.0,573729.0,1323467.0,1997460.0
+John Rutherford,Republican,Florida,House,710380.0,548875.0,268442.0,0.0
+John Sarbanes,Democratic,Maryland,House,177476.0,582519.0,631740.0,0.0
+John Thune,Republican,South Dakota,Senate,6770674.0,2763217.0,17419927,0.0
+John Yarmuth,Democratic,Kentucky,House,190197.0,236256.0,123787.0,132262.0
+Jon Ossoff,Democratic,Georgia,Senate,10260242,12275027,2316948.0,0.0
+Jon Tester,Democratic,Montana,Senate,2335296.0,900741.0,2480084.0,0.0
+Joni Ernst,Republican,Iowa,Senate,1642695.0,1169059.0,1002050.0,0.0
+Joseph Morelle,Democratic,New York,House,1775246.0,1262551.0,672870.0,0.0
+Joe Neguse,Democratic,Colorado,House,2099507.0,1148462.0,1844549.0,0.0
+Josh Gottheimer,Democratic,New Jersey,House,7720264.0,2045198.0,14024163,0.0
+Josh Harder,Democratic,California,House,6193616.0,5122224.0,4541154.0,0.0
+Josh Hawley,Republican,Missouri,Senate,11028757,8426682.0,4040790.0,0.0
+Joyce Beatty,Democratic,Ohio,House,2027765.0,845770.0,2138584.0,2500.0
+Juan Vargas,Democratic,California,House,905730.0,582443.0,393026.0,0.0
+Judy Chu,Democratic,California,House,1275434.0,854516.0,3202686.0,2705.0
+Julia Brownley,Democratic,California,House,1998752.0,2309786.0,2802396.0,0.0
+Julia Letlow,Republican,Louisiana,House,2620536.0,1458271.0,1162265.0,0.0
+Kai Kahele,Democratic,Hawaii,House,463256.0,622946.0,33696.0,0.0
+Kamala Harris,Democratic,California,Senate,0.0,0.0,0.0,0.0
+Karen Bass,Democratic,California,House,507962.0,791486.0,1042340.0,0.0
+Kat Cammack,Republican,Florida,House,2091623.0,1708461.0,415015.0,0.0
+Katherine Clark,Democratic,Massachusetts,House,2002236.0,2104697.0,1190314.0,0.0
+Kathleen Rice,Democratic,New York,House,466705.0,584768.0,71781.0,0.0
+Kathy Castor,Democratic,Florida,House,1432885.0,880523.0,975764.0,0.0
+Kathy Manning,Democratic,North Carolina,House,2692609.0,1874537.0,1130411.0,250000.0
+Katie Porter,Democratic,California,House,21441693,15946876,15762568,0.0
+Kay Granger,Republican,Texas,House,1846695.0,1623165.0,534195.0,0.0
+Kelly Armstrong,Republican,North Dakota,House,1794452.0,1370986.0,729173.0,200000.0
+Ken Buck,Republican,Colorado,House,1375514.0,1142475.0,523705.0,0.0
+Ken Calvert,Republican,California,House,3077072.0,2371953.0,1115717.0,11787.0
+Kevin Brady,Republican,Texas,House,273024.0,730606.0,645085.0,0.0
+Kevin Cramer,Republican,North Dakota,Senate,458054.0,324173.0,352272.0,0.0
+Kevin Hern,Republican,Oklahoma,House,1167360.0,771398.0,725359.0,775000.0
+Kevin McCarthy,Republican,California,House,24791538,22086344,7507326.0,0.0
+Kim Schrier,Democratic,Washington,House,8163575.0,7548005.0,2333322.0,0.0
+Kirsten Gillibrand,Democratic,New York,Senate,3301708.0,651381.0,4392753.0,0.0
+Kurt Schrader,Democratic,Oregon,House,2244429.0,4680564.0,80364.0,0.0
+Kweisi Mfume,Democratic,Maryland,House,452659.0,244657.0,509104.0,0.0
+Kyrsten Sinema,Democratic,Arizona,Senate,7112616.0,1691482.0,7876875.0,0.0
+Lance Gooden,Republican,Texas,House,814098.0,882850.0,383782.0,0.0
+Larry Bucshon,Republican,Indiana,House,1296300.0,888047.0,615172.0,2362.0
+Lauren Underwood,Democratic,Illinois,House,6175563.0,3787920.0,2925541.0,0.0
+Lauren Boebert,Republican,Colorado,House,6227355.0,4659808.0,1924341.0,0.0
+Lee Zeldin,Republican,New York,House,766924.0,922007.0,16354.0,0.0
+Linda Sánchez,Democratic,California,House,1403194.0,1298816.0,945360.0,0.0
+Lindsey Graham,Republican,South Carolina,Senate,6695582.0,5371524.0,13815515,0.0
+Lisa Blunt Rochester,Democratic,Delaware,House,2543199.0,1746273.0,1760692.0,346040.0
+Lisa McClain,Republican,Michigan,House,1189244.0,337384.0,900015.0,0.0
+Lisa Murkowski,Republican,Alaska,Senate,8559805.0,6057395.0,3526355.0,0.0
+Liz Cheney,Republican,Wyoming,House,0.0,0.0,0.0,0.0
+Lizzie Fletcher,Democratic,Texas,House,3412257.0,1217624.0,2255729.0,0.0
+Lloyd Doggett,Democratic,Texas,House,1131363.0,1239741.0,5097097.0,0.0
+Lloyd Smucker,Republican,Pennsylvania,House,1407018.0,825428.0,1278365.0,49208.0
+Lois Frankel,Democratic,Florida,House,1117075.0,827680.0,1481566.0,0.0
+Lori Trahan,Democratic,Massachusetts,House,1812003.0,766481.0,1331485.0,0.0
+Lou Correa,Democratic,California,House,1174363.0,632506.0,1687557.0,25467.0
+Louis B. Gohmert Jr.,Republican,Texas,House,206591.0,280040.0,20251.0,0.0
+Lucille Roybal-Allard,Democratic,California,House,168660.0,159810.0,47393.0,0.0
+Lucy McBath,Democratic,Georgia,House,5042351.0,4374448.0,807831.0,0.0
+Madeleine Dean,Democratic,Pennsylvania,House,1727651.0,1120169.0,1182075.0,0.0
+Madison Cawthorn,Republican,North Carolina,House,3965149.0,4058668.0,12211.0,0.0
+Maggie Hassan,Democratic,New Hampshire,Senate,30914830,28380992,4813508.0,0.0
+Marc Veasey,Democratic,Texas,House,1652257.0,1283856.0,836744.0,0.0
+Marco Rubio,Republican,Florida,Senate,36709285,30153111,9631856.0,0.0
+Marcy Kaptur,Democratic,Ohio,House,2855041.0,2478802.0,1148634.0,0.0
+Maria Cantwell,Democratic,Washington,Senate,686777.0,902774.0,179611.0,2171350.0
+Maria Salazar,Republican,Florida,House,4516392.0,2613085.0,1924564.0,78856.0
+Mariannette Miller-Meeks,Republican,Iowa,House,4225010.0,2617278.0,2060145.0,186500.0
+Marie Newman,Democratic,Illinois,House,1449001.0,1530297.0,21544.0,10642.0
+Marilyn Strickland,Democratic,Washington,House,1718171.0,827196.0,923000.0,50000.0
+Mario Diaz-Balart,Republican,Florida,House,1584197.0,959585.0,1557856.0,0.0
+Marjorie Taylor Greene,Republican,Georgia,House,11571029,9713658.0,2228902.0,950000.0
+Mark Amodei,Republican,Nevada,House,924763.0,1081270.0,167808.0,9000.0
+Mark Desaulnier,Democratic,California,House,566400.0,442749.0,605038.0,0.0
+Mark Green,Republican,Tennessee,House,1447075.0,1544369.0,176911.0,0.0
+Mark Kelly,Democratic,Arizona,Senate,73140886,61357281,13186127,0.0
+Mark Pocan,Democratic,Wisconsin,House,1000923.0,850344.0,1001591.0,0.0
+Mark Takano,Democratic,California,House,1123015.0,731370.0,555609.0,0.0
+Mark Warner,Democratic,Virginia,Senate,2563285.0,729334.0,2222361.0,0.0
+Markwayne Mullin,Republican,Oklahoma,House,4466785.0,4642810.0,434285.0,1230810.0
+Marsha Blackburn,Republican,Tennessee,Senate,2561756.0,1070457.0,3172197.0,0.0
+Martin Heinrich,Democratic,New Mexico,Senate,1403676.0,984961.0,890650.0,0.0
+Mary Gay Scanlon,Democratic,Pennsylvania,House,1434559.0,1037461.0,615776.0,250000.0
+Mary Miller,Republican,Illinois,House,1869196.0,1679404.0,308492.0,0.0
+Mary Peltola,Democratic,Alaska,House,4163482.0,1897681.0,2265800.0,0.0
+Matt Cartwright,Democratic,Pennsylvania,House,4604399.0,3511552.0,1263713.0,242800.0
+Matt Gaetz,Republican,Florida,House,5929700.0,6878447.0,657078.0,0.0
+Matt Rosendale,Republican,Montana,House,1977326.0,1103300.0,1136865.0,0.0
+Maxine Waters,Democratic,California,House,1117733.0,1169917.0,268683.0,45293.0
+Mayra Flores,Republican,Texas,House,3305211.0,2505998.0,799212.0,0.0
+Mazie K. Hirono,Democratic,Hawaii,Senate,640039.0,647254.0,836625.0,0.0
+Melanie Stansbury,Democratic,New Mexico,House,3211215.0,2881729.0,380609.0,0.0
+Michael Bennet,Democratic,Colorado,Senate,18086343,13713611,4898614.0,374819.0
+Michael Burgess,Republican,Texas,House,1159191.0,1066159.0,235528.0,0.0
+Michael Cloud,Republican,Texas,House,975508.0,914954.0,302925.0,0.0
+Michael Guest,Republican,Mississippi,House,1240555.0,1378472.0,144151.0,0.0
+Michael McCaul,Republican,Texas,House,2265809.0,1896999.0,376543.0,0.0
+Michael Turner,Republican,Ohio,House,1349285.0,703942.0,722683.0,0.0
+Michael San Nicolas,Democratic,Guam,Senate,13025.0,17683.0,16205.0,14303.0
+Michael Waltz,Republican,Florida,House,2728460.0,2447258.0,1165661.0,0.0
+Michelle Fischbach,Republican,Minnesota,House,1515656.0,1140241.0,413364.0,0.0
+Michelle Steel,Republican,California,House,6258368.0,4493801.0,1921641.0,470573.0
+Mike Bost,Republican,Illinois,House,1500937.0,995497.0,919230.0,0.0
+Mike Braun,Republican,Indiana,Senate,1269505.0,559052.0,1261125.0,341069.0
+Mike Carey,Republican,Ohio,House,2181022.0,2025581.0,155440.0,0.0
+Mike Crapo,Republican,Idaho,Senate,4182600.0,3899937.0,4365054.0,0.0
+Mike Rogers,Republican,Alabama,House,1788743.0,1368622.0,922354.0,0.0
+Mike Doyle,Democratic,Pennsylvania,House,166850.0,354781.0,77965.0,0.0
+Mike Gallagher,Republican,Wisconsin,House,2940815.0,1130175.0,2980001.0,0.0
+Mike Garcia,Republican,California,House,6128156.0,4621964.0,1884050.0,169894.0
+Mike Johnson,Republican,Louisiana,House,1276358.0,1039697.0,906346.0,0.0
+Mike Kelly,Republican,Pennsylvania,House,1180269.0,865325.0,1273468.0,95000.0
+Mike Lee,Republican,Utah,Senate,7703753.0,6837453.0,1415684.0,0.0
+Mike Levin,Democratic,California,House,4448589.0,3933903.0,2016947.0,5000.0
+Mike Quigley,Democratic,Illinois,House,963237.0,683359.0,1302225.0,0.0
+Mike Rounds,Republican,South Dakota,Senate,138756.0,476486.0,1344792.0,0.0
+Mike Simpson,Republican,Idaho,House,1547000.0,1534292.0,189022.0,0.0
+Mike Thompson,Democratic,California,House,2000373.0,1899090.0,1847454.0,20794.0
+Mikie Sherrill,Democratic,New Jersey,House,5622081.0,5381147.0,3372654.0,0.0
+Mitch McConnell,Republican,Kentucky,Senate,5503392.0,4543999.0,7771094.0,0.0
+Mitt Romney,Republican,Utah,Senate,474786.0,608948.0,467216.0,0.0
+Mo Brooks,Republican,Alabama,House,3148542.0,4270401.0,15641.0,0.0
+Mondaire Jones,Democratic,New York,House,3013074.0,3724475.0,86188.0,0.0
+Morgan Griffith,Republican,Virginia,House,720632.0,561948.0,580125.0,0.0
+Nancy Mace,Republican,South Carolina,House,5119356.0,4381625.0,797217.0,100.0
+Nancy Pelosi,Democratic,California,House,22216583,21814643,6701313.0,0.0
+Nanette Barragán,Democratic,California,House,1107829.0,561441.0,1597139.0,0.0
+Neal Dunn,Republican,Florida,House,1531504.0,1130495.0,803071.0,303284.0
+Nicole Malliotakis,Republican,New York,House,4260780.0,2760113.0,1523610.0,0.0
+Nikema Williams,Democratic,Georgia,House,1066976.0,1162211.0,95928.0,0.0
+Norma Torres,Democratic,California,House,677046.0,486938.0,397761.0,2243.0
+Nydia Velazquez,Democratic,New York,House,543105.0,526529.0,326957.0,7736.0
+Pat Ryan,Democratic,New York,House,3352245.0,2799498.0,553243.0,0.0
+Pat Toomey,Republican,Pennsylvania,Senate,13254.0,394707.0,1103643.0,0.0
+Pat Fallon,Republican,Texas,House,730885.0,704310.0,188683.0,25000.0
+Patrick Leahy,Democratic,Vermont,Senate,812657.0,825290.0,1486031.0,0.0
+Patrick McHenry,Republican,North Carolina,House,3471514.0,3052628.0,2125855.0,0.0
+Patty Murray,Democratic,Washington,Senate,13377243,13073248,3786960.0,0.0
+Paul Gosar,Republican,Arizona,House,737101.0,711469.0,39380.0,0.0
+Paul Tonko,Democratic,New York,House,1661023.0,1476649.0,996034.0,0.0
+Pete Aguilar,Democratic,California,House,2916586.0,2421160.0,2335020.0,0.0
+Pete Sessions,Republican,Texas,House,876121.0,732508.0,309602.0,120000.0
+Pete Stauber,Republican,Minnesota,House,2279020.0,1181123.0,1100665.0,0.0
+Peter DeFazio,Democratic,Oregon,House,0.0,0.0,0.0,0.0
+Peter Meijer,Republican,Michigan,House,2399884.0,2381236.0,106846.0,480000.0
+Peter Welch,Democratic,Vermont,House,5143410.0,2456802.0,2686607.0,0.0
+Pramila Jayapal,Democratic,Washington,House,2533189.0,1700676.0,2616125.0,0.0
+Raja Krishnamoorthi,Democratic,Illinois,House,7843935.0,4638387.0,11633394,0.0
+Ralph Norman,Republican,South Carolina,House,306434.0,508078.0,526295.0,0.0
+Rand Paul,Republican,Kentucky,Senate,22490627,15865010,8308644.0,0.0
+Randy Feenstra,Republican,Iowa,House,2664811.0,1505476.0,1171281.0,0.0
+Randy Weber,Republican,Texas,House,921792.0,873717.0,519482.0,124000.0
+Raphael Warnock,Democratic,Georgia,Senate,86581469,75959810,22762985,0.0
+Rashida Tlaib,Democratic,Michigan,House,3105241.0,3070877.0,426096.0,0.0
+Raul Grijalva,Democratic,Arizona,House,549117.0,412910.0,362415.0,4015.0
+Raul Ruiz,Democratic,California,House,2099148.0,1785769.0,2629550.0,0.0
+Richard Blumenthal,Democratic,Connecticut,Senate,6871179.0,6230804.0,4544418.0,0.0
+Richard Burr,Republican,North Carolina,Senate,145474.0,208721.0,3322.0,0.0
+Richard Shelby,Republican,Alabama,Senate,20520.0,226622.0,9558166.0,0.0
+Richard Neal,Democratic,Massachusetts,House,3163938.0,2089988.0,3458513.0,0.0
+Richard Hudson,Republican,North Carolina,House,2846323.0,1559526.0,1517715.0,0.0
+Rick Allen,Republican,Georgia,House,856257.0,607298.0,895868.0,1125000.0
+Rick Crawford,Republican,Arkansas,House,979267.0,543708.0,618266.0,0.0
+Rick Larsen,Democratic,Washington,House,1516417.0,1142747.0,702871.0,0.0
+Rick Scott,Republican,Florida,Senate,4731925.0,5672380.0,1212013.0,1000000.0
+Ritchie Torres,Democratic,New York,House,4080074.0,806930.0,3662833.0,0.0
+Ro Khanna,Democratic,California,House,5550174.0,2408297.0,5403004.0,89348.0
+Rob Portman,Republican,Ohio,Senate,-1386356.0,386217.0,3237052.0,0.0
+Rob Wittman,Republican,Virginia,House,1859691.0,1134994.0,912028.0,0.0
+Robert Aderholt,Republican,Alabama,House,1385034.0,647570.0,1384467.0,0.0
+Bob Menendez,Democratic,New Jersey,Senate,4598365.0,679677.0,5219723.0,0.0
+Robin Kelly,Democratic,Illinois,House,1562228.0,1094311.0,1482329.0,0.0
+Rodney Davis,Republican,Illinois,House,3304702.0,3406429.0,38708.0,0.0
+Roger Marshall,Republican,Kansas,Senate,605073.0,392087.0,422944.0,97000.0
+Roger Wicker,Republican,Mississippi,Senate,1386724.0,756088.0,2318412.0,0.0
+Roger Williams,Republican,Texas,House,1589224.0,1231307.0,369458.0,47900.0
+Ron Estes,Republican,Kansas,House,1674579.0,1075157.0,1443586.0,0.0
+Ron Johnson,Republican,Wisconsin,Senate,27680901,23731653,4508581.0,11759857
+Ron Kind,Democratic,Wisconsin,House,587143.0,695941.0,768373.0,0.0
+Ron Wyden,Democratic,Oregon,Senate,10024604,6264627.0,5986323.0,0.0
+Ronny Jackson,Republican,Texas,House,4442159.0,3782300.0,1046998.0,0.0
+Rosa DeLauro,Democratic,Connecticut,House,1895941.0,1211915.0,843754.0,0.0
+Roy Blunt,Republican,Missouri,Senate,-367162.0,513399.0,861989.0,0.0
+Ruben Gallego,Democratic,Arizona,House,2153850.0,1416479.0,1354341.0,0.0
+Russ Fulcher,Republican,Idaho,House,479167.0,383652.0,198346.0,0.0
+Salud Carbajal,Democratic,California,House,2031545.0,906948.0,2525300.0,0.0
+Sam Graves,Republican,Missouri,House,2005290.0,1507525.0,1354737.0,43683.0
+Sanford Bishop Jr.,Democratic,Georgia,House,2680786.0,1832607.0,1040707.0,0.0
+Sara Jacobs,Democratic,California,House,1584377.0,1432530.0,254013.0,0.0
+Scott Desjarlais,Republican,Tennessee,House,141458.0,140755.0,303352.0,0.0
+Scott Fitzgerald,Republican,Wisconsin,House,919350.0,684771.0,421894.0,0.0
+Scott Franklin,Republican,Florida,House,972575.0,601487.0,396568.0,422762.0
+Scott Perry,Republican,Pennsylvania,House,2529397.0,1546285.0,1150812.0,119566.0
+Scott Peters,Democratic,California,House,2227355.0,1978300.0,1830173.0,170760.0
+Sean Casten,Democratic,Illinois,House,4650448.0,4206412.0,790173.0,75694.0
+Sean Maloney,Democratic,New York,House,4717097.0,4620358.0,956740.0,903.0
+Seth Moulton,Democratic,Massachusetts,House,1867651.0,1379427.0,733892.0,0.0
+Sharice Davids,Democratic,Kansas,House,6717662.0,5671654.0,1525158.0,0.0
+Sheila Cherfilus-McCormick,Democratic,Florida,House,4250064.0,4276527.0,13498.0,3848131.0
+Sheila Jackson Lee,Democratic,Texas,House,761516.0,488238.0,537223.0,0.0
+Sheldon Whitehouse,Democratic,Rhode Island,Senate,1373474.0,645659.0,1247257.0,0.0
+Shelley Moore Capito,Republican,West Virginia,Senate,707321.0,428963.0,2748888.0,0.0
+Sherrod Brown,Democratic,Ohio,Senate,3672268.0,2884655.0,2951256.0,0.0
+Shontel Brown,Democratic,Ohio,House,4522424.0,4147205.0,414847.0,0.0
+Stacey Plaskett,Democratic,Virgin Islands,Senate,920408.0,830112.0,152483.0,24733.0
+Steny Hoyer,Democratic,Maryland,House,3583458.0,3534293.0,928232.0,764.0
+Stephanie Bice,Republican,Oklahoma,House,2185504.0,1597240.0,799854.0,0.0
+Stephanie Murphy,Democratic,Florida,House,1111888.0,1106700.0,1417204.0,0.0
+Stephen Lynch,Democratic,Massachusetts,House,714987.0,694030.0,1234341.0,0.0
+Steve Chabot,Republican,Ohio,House,1731244.0,1103591.0,678565.0,0.0
+Steve Cohen,Democratic,Tennessee,House,509828.0,264993.0,1460953.0,0.0
+Steve Scalise,Republican,Louisiana,House,17940130,19428130,4729718.0,0.0
+Steve Womack,Republican,Arkansas,House,1404019.0,808587.0,1958688.0,0.0
+Steve Daines,Republican,Montana,Senate,1179969.0,529216.0,758536.0,44813.0
+Steven Horsford,Democratic,Nevada,House,4254563.0,3481983.0,1268497.0,2375.0
+Steven Palazzo,Republican,Mississippi,House,1048457.0,1315531.0,33954.0,30000.0
+Susan Collins,Republican,Maine,Senate,966641.0,687093.0,1574740.0,0.0
+Susan Wild,Democratic,Pennsylvania,House,5771483.0,4270837.0,1579342.0,0.0
+Susie Lee,Democratic,Nevada,House,5420136.0,4228959.0,1219881.0,0.0
+Suzan DelBene,Democratic,Washington,House,2252066.0,2045946.0,1545237.0,495000.0
+Suzanne Bonamici,Democratic,Oregon,House,918476.0,843310.0,628512.0,0.0
+Sylvia Garcia,Democratic,Texas,House,836909.0,468144.0,616363.0,0.0
+Tammy Baldwin,Democratic,Wisconsin,Senate,3943221.0,3155369.0,2741555.0,0.0
+Tammy Duckworth,Democratic,Illinois,Senate,13588871,8631795.0,7631025.0,0.0
+Ted Budd,Republican,North Carolina,House,11030158,9170583.0,2930574.0,275000.0
+Ted Cruz,Republican,Texas,Senate,17471712,18818227,3248487.0,0.0
+Ted Deutch,Democratic,Florida,House,309658.0,552315.0,217159.0,0.0
+Ted Lieu,Democratic,California,House,1323092.0,2074087.0,1193368.0,0.0
+Teresa Leger Fernandez,Democratic,New Mexico,House,2684930.0,1812604.0,1033795.0,0.0
+Terri Sewell,Democratic,Alabama,House,2093425.0,1179817.0,3157088.0,0.0
+Thom Tillis,Republican,North Carolina,Senate,783940.0,882010.0,736838.0,0.0
+Thomas Massie,Republican,Kentucky,House,973980.0,884305.0,209059.0,0.0
+Tim Burchett,Republican,Tennessee,House,1314552.0,970838.0,937391.0,13803.0
+Tim Kaine,Democratic,Virginia,Senate,2239085.0,832884.0,3922102.0,0.0
+Tim Ryan,Democratic,Ohio,House,38334636,36909832,1424804.0,68075.0
+Tim Scott,Republican,South Carolina,Senate,37743256,23876921,21539824,0.0
+Tim Walberg,Republican,Michigan,House,1375262.0,1018729.0,1125901.0,0.0
+Tina Smith,Democratic,Minnesota,Senate,1418349.0,1505859.0,714245.0,0.0
+Todd Young,Republican,Indiana,Senate,10055406,6932873.0,5501025.0,0.0
+Tom Carper,Democratic,Delaware,Senate,697627.0,531955.0,470019.0,0.0
+Tom Cole,Republican,Oklahoma,House,2095503.0,2000560.0,1372131.0,0.0
+Tom Cotton,Republican,Arkansas,Senate,4637570.0,3054045.0,7980477.0,77959.0
+Tom Emmer,Republican,Minnesota,House,3893173.0,3249177.0,1092835.0,0.0
+Tom Malinowski,Democratic,New Jersey,House,7599512.0,4867489.0,2783118.0,0.0
+Tom McClintock,Republican,California,House,1509014.0,1490054.0,189780.0,0.0
+Tom O'Halleran,Democratic,Arizona,House,3688187.0,1911807.0,1839527.0,0.0
