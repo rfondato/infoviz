@@ -4,5 +4,9 @@
 ### Fundraising by Members of the 117th Congress
 #### Source: [Open Secrets](https://www.opensecrets.org/members-of-congress/members-list)
 
+* [Tableau](https://rfondato.github.io/infoviz/s2/tableau.html)
+* [Flourish - Beeswarm](https://rfondato.github.io/infoviz/s2/flourish.html)
+* [Flourish - Circle](https://rfondato.github.io/infoviz/s2/fluorish-circle.html)
+
 ## Bonus:
 * [Zoo](https://rfondato.github.io/infoviz/s2/zoo.txt)
