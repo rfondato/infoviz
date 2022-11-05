@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Vega-Lite: Spent vs Raised</title>
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.22.1"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.6.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.21.0"></script>
+  </head>
+  <body>
+    <div id="vis"></div>
+
+    <script type="text/javascript">
+      vlSpec = {
+        "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+        "description": "raised vs spent",
+        "data" : { "url": "https://raw.githubusercontent.com/rfondato/infoviz/main/s2/2022w44-QueryResult.csv" },
+        "mark": {"type": "point", "tooltip": {"content": "data"}},
+        "encoding": {
+          "x": {"field": "raised", "type": "quantitative"},
+          "y": {"field": "spent", "type": "quantitative"},
+          "color": {"field": "party"}
+        }
+      };
+      vegaEmbed('#vis', vlSpec);
+    </script>
+  </body>
+</html>
