@@ -1,0 +1,113 @@
+Dia,Fecha,Tarea,Categoría,Tiempo,Comentarios
+1,31-10-2022,Desarrollo,Desarrollo,60,
+1,31-10-2022,Bug Fixing,Desarrollo,60,Error en producción
+1,31-10-2022,Reuniones y Llamadas,No Desarrollo,90,Standup y kickoff de actividad
+1,31-10-2022,Ayuda,No Desarrollo,30,
+1,31-10-2022,Problemas de entorno,No Desarrollo,120,Update local de Node
+1,31-10-2022,Administrativo,No Desarrollo,30,
+1,31-10-2022,Releases,No Desarrollo,30,Cherry pick
+1,31-10-2022,Ocio y Personal,Personal,90,
+2,01-11-2022,Desarrollo,Desarrollo,60,
+2,01-11-2022,Bug Fixing,Desarrollo,60,
+2,01-11-2022,Reuniones y Llamadas,No Desarrollo,30,1-on-1
+2,01-11-2022,Ayuda,No Desarrollo,0,
+2,01-11-2022,Problemas de entorno,No Desarrollo,180,Update local de Node
+2,01-11-2022,Administrativo,No Desarrollo,60,
+2,01-11-2022,Releases,No Desarrollo,30,Cherry pick
+2,01-11-2022,Ocio y Personal,Personal,60,
+3,02-11-2022,Desarrollo,Desarrollo,240,
+3,02-11-2022,Bug Fixing,Desarrollo,60,
+3,02-11-2022,Reuniones y Llamadas,No Desarrollo,0,
+3,02-11-2022,Ayuda,No Desarrollo,30,
+3,02-11-2022,Problemas de entorno,No Desarrollo,30,Update local de Node - Solucionado!
+3,02-11-2022,Administrativo,No Desarrollo,30,
+3,02-11-2022,Releases,No Desarrollo,0,
+3,02-11-2022,Ocio y Personal,Personal,120,Tramites auto
+4,03-11-2022,Desarrollo,Desarrollo,180,
+4,03-11-2022,Bug Fixing,Desarrollo,0,
+4,03-11-2022,Reuniones y Llamadas,No Desarrollo,60,DEMO
+4,03-11-2022,Ayuda,No Desarrollo,90,
+4,03-11-2022,Problemas de entorno,No Desarrollo,0,
+4,03-11-2022,Administrativo,No Desarrollo,60,
+4,03-11-2022,Releases,No Desarrollo,0,
+4,03-11-2022,Ocio y Personal,Personal,90,Tramites auto
+5,04-11-2022,Desarrollo,Desarrollo,90,
+5,04-11-2022,Bug Fixing,Desarrollo,90,Tickets seguridad
+5,04-11-2022,Reuniones y Llamadas,No Desarrollo,120,Team local y sprint review
+5,04-11-2022,Ayuda,No Desarrollo,30,
+5,04-11-2022,Problemas de entorno,No Desarrollo,0,
+5,04-11-2022,Administrativo,No Desarrollo,30,
+5,04-11-2022,Releases,No Desarrollo,0,
+5,04-11-2022,Ocio y Personal,Personal,90,Tramites auto
+6,07-11-2022,Desarrollo,Desarrollo,150,
+6,07-11-2022,Bug Fixing,Desarrollo,60,Tickets seguridad
+6,07-11-2022,Reuniones y Llamadas,No Desarrollo,60,Team planning
+6,07-11-2022,Ayuda,No Desarrollo,90,Ayuda a setear env a un nuevo miembro
+6,07-11-2022,Problemas de entorno,No Desarrollo,0,
+6,07-11-2022,Administrativo,No Desarrollo,30,
+6,07-11-2022,Releases,No Desarrollo,0,
+6,07-11-2022,Ocio y Personal,Personal,60,
+7,08-11-2022,Desarrollo,Desarrollo,150,
+7,08-11-2022,Bug Fixing,Desarrollo,60,
+7,08-11-2022,Reuniones y Llamadas,No Desarrollo,0,
+7,08-11-2022,Ayuda,No Desarrollo,0,
+7,08-11-2022,Problemas de entorno,No Desarrollo,0,
+7,08-11-2022,Administrativo,No Desarrollo,60,Armado de planillas
+7,08-11-2022,Releases,No Desarrollo,180,Review de todos los cambios
+7,08-11-2022,Ocio y Personal,Personal,30,
+8,09-11-2022,Desarrollo,Desarrollo,150,
+8,09-11-2022,Bug Fixing,Desarrollo,0,
+8,09-11-2022,Reuniones y Llamadas,No Desarrollo,30,
+8,09-11-2022,Ayuda,No Desarrollo,30,
+8,09-11-2022,Problemas de entorno,No Desarrollo,30,Bamboo en QA
+8,09-11-2022,Administrativo,No Desarrollo,30,
+8,09-11-2022,Releases,No Desarrollo,150,Continuacion review y proceso de release
+8,09-11-2022,Ocio y Personal,Personal,60,
+9,10-11-2022,Desarrollo,Desarrollo,180,
+9,10-11-2022,Bug Fixing,Desarrollo,60,Consulta de soporte
+9,10-11-2022,Reuniones y Llamadas,No Desarrollo,60,Reunion de proyecto
+9,10-11-2022,Ayuda,No Desarrollo,30,
+9,10-11-2022,Problemas de entorno,No Desarrollo,0,
+9,10-11-2022,Administrativo,No Desarrollo,60,
+9,10-11-2022,Releases,No Desarrollo,60,Continuacion proceso
+9,10-11-2022,Ocio y Personal,Personal,30,
+10,11-11-2022,Desarrollo,Desarrollo,60,
+10,11-11-2022,Bug Fixing,Desarrollo,120,
+10,11-11-2022,Reuniones y Llamadas,No Desarrollo,60,Team local
+10,11-11-2022,Ayuda,No Desarrollo,0,
+10,11-11-2022,Problemas de entorno,No Desarrollo,60,Fallas de env de QA
+10,11-11-2022,Administrativo,No Desarrollo,30,
+10,11-11-2022,Releases,No Desarrollo,60,Continuacion proceso
+10,11-11-2022,Ocio y Personal,Personal,60,
+11,14-11-2022,Desarrollo,Desarrollo,60,
+11,14-11-2022,Bug Fixing,Desarrollo,180,
+11,14-11-2022,Reuniones y Llamadas,No Desarrollo,60,Standup + Deployment checkouts
+11,14-11-2022,Ayuda,No Desarrollo,30,
+11,14-11-2022,Problemas de entorno,No Desarrollo,0,
+11,14-11-2022,Administrativo,No Desarrollo,60,
+11,14-11-2022,Releases,No Desarrollo,0,
+11,14-11-2022,Ocio y Personal,Personal,60,
+12,15-11-2022,Desarrollo,Desarrollo,0,
+12,15-11-2022,Bug Fixing,Desarrollo,180,
+12,15-11-2022,Reuniones y Llamadas,No Desarrollo,30,1 on 1
+12,15-11-2022,Ayuda,No Desarrollo,60,
+12,15-11-2022,Problemas de entorno,No Desarrollo,0,
+12,15-11-2022,Administrativo,No Desarrollo,60,
+12,15-11-2022,Releases,No Desarrollo,60,
+12,15-11-2022,Ocio y Personal,Personal,60,
+13,16-11-2022,Desarrollo,Desarrollo,60,
+13,16-11-2022,Bug Fixing,Desarrollo,180,
+13,16-11-2022,Reuniones y Llamadas,No Desarrollo,30,
+13,16-11-2022,Ayuda,No Desarrollo,90,
+13,16-11-2022,Problemas de entorno,No Desarrollo,0,
+13,16-11-2022,Administrativo,No Desarrollo,60,
+13,16-11-2022,Releases,No Desarrollo,0,
+13,16-11-2022,Ocio y Personal,Personal,60,
+14,17-11-2022,Desarrollo,Desarrollo,60,
+14,17-11-2022,Bug Fixing,Desarrollo,180,
+14,17-11-2022,Reuniones y Llamadas,No Desarrollo,90,
+14,17-11-2022,Ayuda,No Desarrollo,90,
+14,17-11-2022,Problemas de entorno,No Desarrollo,0,
+14,17-11-2022,Administrativo,No Desarrollo,0,
+14,17-11-2022,Releases,No Desarrollo,0,
+14,17-11-2022,Ocio y Personal,Personal,60,
